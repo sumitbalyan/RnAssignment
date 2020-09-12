@@ -12,11 +12,11 @@ In the project directory, you can run:
 
 ## Search sceern
 
-[<img src="./Images/1.PNG" width=33% />]
+[<img src="./Images/1.png" width=33% />]
 
-[<img src="./Images/2.PNG" width=33% />]
+[<img src="./Images/2.png" width=33% />]
 
 ## Details screen
 
-[<img src="./Images/3.PNG" width=33% />]
+[<img src="./Images/3.png" width=33% />]
 
